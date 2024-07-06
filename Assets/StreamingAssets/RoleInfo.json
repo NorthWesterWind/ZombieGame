@@ -1,0 +1,8 @@
+[
+{"id":1,"res":"Role/engineer","atk":10,"lockMoney":0,"tips":"工程师","effRes":"eff/1"},
+{"id":2,"res":"Role/sniper","atk":5,"lockMoney":0,"tips":"西部牛仔","effRes":"eff/2"},
+{"id":3,"res":"Role/infantry","atk":10,"lockMoney":50,"tips":"步枪手","effRes":"eff/2"},
+{"id":4,"res":"Role/medic","atk":9,"lockMoney":100,"tips":"战地医生","effRes":"eff/2"},
+{"id":5,"res":"Role/officer","atk":15,"lockMoney":300,"tips":"警卫队","effRes":"eff/2"},
+{"id":6,"res":"Role/gunner","atk":12,"lockMoney":500,"tips":"重机枪手","effRes":"eff/2"}
+]

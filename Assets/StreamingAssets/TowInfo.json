@@ -1,0 +1,11 @@
+[
+{"id":1,"name":"加农炮1","money":100,"atk":5,"atkRange":6,"offsetTime":1,"nextLev":2,"imgRes":"TowImg/1_1","res":"Tow/1_1","atkType":1,"eff":"eff/F1"},
+{"id":2,"name":"加农炮2","money":150,"atk":8,"atkRange":6,"offsetTime":1,"nextLev":3,"imgRes":"TowImg/1_2","res":"Tow/1_2","atkType":1,"eff":"eff/F1"},
+{"id":3,"name":"加农炮3","money":300,"atk":10,"atkRange":6,"offsetTime":1,"nextLev":0,"imgRes":"TowImg/1_3","res":"Tow/1_3","atkType":1,"eff":"eff/F1"},
+{"id":4,"name":"闪电塔1","money":100,"atk":5,"atkRange":6,"offsetTime":0.8,"nextLev":5,"imgRes":"TowImg/2_1","res":"Tow/2_1","atkType":2,"eff":"eff/F2"},
+{"id":5,"name":"闪电塔2","money":200,"atk":7,"atkRange":6,"offsetTime":0.8,"nextLev":6,"imgRes":"TowImg/2_2","res":"Tow/2_2","atkType":2,"eff":"eff/F2"},
+{"id":6,"name":"闪电塔3","money":300,"atk":10,"atkRange":6,"offsetTime":0.8,"nextLev":0,"imgRes":"TowImg/2_3","res":"Tow/2_3","atkType":2,"eff":"eff/F2"},
+{"id":7,"name":"激光炮1","money":200,"atk":6,"atkRange":6,"offsetTime":2,"nextLev":8,"imgRes":"TowImg/3_1","res":"Tow/3_1","atkType":1,"eff":"eff/F1"},
+{"id":8,"name":"激光炮2","money":300,"atk":10,"atkRange":6,"offsetTime":1,"nextLev":9,"imgRes":"TowImg/3_2","res":"Tow/3_2","atkType":1,"eff":"eff/F1"},
+{"id":9,"name":"激光炮3","money":400,"atk":10,"atkRange":6,"offsetTime":0.5,"nextLev":0,"imgRes":"TowImg/3_3","res":"Tow/3_3","atkType":1,"eff":"eff/F1"}
+]

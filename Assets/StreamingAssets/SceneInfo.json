@@ -1,0 +1,5 @@
+[
+{"id":1,"res":"SceneImg/GameScene1","name":"庄园","tip":"暗藏危机庄园","Scenename":"GameScene1","money":200},
+{"id":2,"res":"SceneImg/GameScene2","name":"村庄","tip":"丧尸出没得村庄","Scenename":"GameScene2","money":200},
+{"id":3,"res":"SceneImg/GameScene3","name":"森林","tip":"险象环生的森林","Scenename":"GameScene3","money":200}
+]
